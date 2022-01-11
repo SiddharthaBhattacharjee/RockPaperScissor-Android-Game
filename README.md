@@ -21,6 +21,6 @@ These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (
 * Developer's Note: <br>
 This app is built for MLH Local Hack days and is also a part of [#100DaysOfCode](https://github.com/SiddharthaBhattacharjee/100Days-of-Code). 
 The app is built for learning and practissing purposes only and is not intended for any commercial distribution.<br>
-DOWNLOAD THE APK FILE AND INSTALL IN YOUR ANDROID DEVICE TO PLAY.
+<b>DOWNLOAD THE APK FILE AND INSTALL IN YOUR ANDROID DEVICE TO PLAY.</b>
 
 
